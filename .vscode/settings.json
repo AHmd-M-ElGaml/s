@@ -1,0 +1,10 @@
+{
+    "conventionalCommits.scopes": [
+        "init",
+        "Footer",
+        "Header",
+        "Home",
+        "enhancement",
+        "Improvement"
+    ]
+}
